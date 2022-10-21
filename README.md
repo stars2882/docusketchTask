@@ -3,7 +3,7 @@
 
 ### Task:
 * Write a test plan (script) for the login form in gmail.
-* Cover script with selenium (java/gradle )
+* Cover script with selenium (java/gradle)
 
 ### Tools used:
 * Page Objects
