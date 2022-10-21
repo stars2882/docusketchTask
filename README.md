@@ -13,7 +13,7 @@
 
 
 ### Clone the project:
-```git clone https://github.com/samuelpereira-qa/cucumber-jvm.git```
+```git clone https://github.com/stars2882/docusketchTask.git```
 
 
 
